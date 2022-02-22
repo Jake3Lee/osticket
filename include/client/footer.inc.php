@@ -1,7 +1,7 @@
         </div>
     </div>
     <div id="footer">
-        <p>Copyright &copy; <?php echo date('Y'); ?> <?php echo (string) $ost->company ?: 'osTicket.com'; ?> - All rights reserved - 2022년 2월 22일 by User06.</p>
+        <p>Copyright &copy; <?php echo date('Y'); ?> <?php echo (string) $ost->company ?: 'osTicket.com'; ?> - All rights reserved - 2022년 2월 22일 by User06.v2 </p>
         <a id="poweredBy" href="http://osticket.com" target="_blank"><?php echo __('Helpdesk software - powered by osTicket'); ?></a>
     </div>
 <div id="overlay"></div>
